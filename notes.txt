@@ -1,0 +1,12 @@
+ENTORNO DE EJECUCION DE JAVASCRIPT
+Node - Para gestion de eventos
+libera procesos para hacerlo en async
+espera que ocurran cosas
+PORQUE NODE?
+1. Demanda
+	Todas las empresas usan nodeJS 
+	No se limita al backend
+2. Se puede usar conocimiento JS en este entorno
+3. APIs, 
+4. Comunidad , posiblidades ilimitadas
+5. Es rapido, escalable, gratis de desplegar
